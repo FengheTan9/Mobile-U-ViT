@@ -50,7 +50,7 @@
 ## News
 
 - **Mobile U-ViT accepted by ACM MM'25 🥰** 
-- **Code and code released !** 😎
+- **Paper and Code released !** 😎
 
 ### Abstract
 
