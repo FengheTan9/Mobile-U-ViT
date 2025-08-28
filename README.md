@@ -106,7 +106,7 @@ Please put the [BUSI](https://www.kaggle.com/aryashah2k/breast-ultrasound-images
     ├── main.py
     └── split.py
 ```
-#### 3. Training & Validation
+#### 3. 2D Training & Validation
 
 You can first split your dataset:
 
@@ -121,6 +121,17 @@ python main.py --model ["mobileuvit", "mobileuvit_l"] --base_dir ./data/busi --t
 ```
 
 ![Teaser](imgs/result.jpg)
+
+#### 4. 3D Training & Validation
+
+Downstream pipeline can be referred to [UNETR](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV).
+
+```python
+# An example of Training on BTCV (num_classes=14)
+from network.MobileUViT_3D import mobileuvit_l
+
+model = mobileuvit_l(inch=1, out_channel=14).cuda()
+```
 
 ### Acknowledgements:
 
