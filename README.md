@@ -119,9 +119,6 @@ Then, train and validate:
 ```python
 python main.py --model ["mobileuvit", "mobileuvit_l"] --base_dir ./data/busi --train_file_dir busi_train.txt --val_file_dir busi_val.txt
 ```
-
-![Teaser](imgs/result.jpg)
-
 #### 4. 3D Training & Validation
 
 Downstream pipeline can be referred to [UNETR](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV).
@@ -132,6 +129,8 @@ from network.MobileUViT_3D import mobileuvit_l
 
 model = mobileuvit_l(inch=1, out_channel=14).cuda()
 ```
+
+![Teaser](imgs/result.jpg)
 
 ### Acknowledgements:
 
