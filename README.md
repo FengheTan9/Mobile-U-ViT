@@ -141,6 +141,14 @@ This code uses helper functions from [CMUNeXt](https://github.com/FengheTan9/CMU
 If the code, paper and weights help your research, please cite:
 
 ```
+@inproceedings{tang2025mobile,
+  title={Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation},
+  author={Tang, Fenghe and Nian, Bingkun and Ding, Jianrui and Ma, Wenxin and Quan, Quan and Dong, Chengqi and Yang, Jie and Liu, Wei and Zhou, S Kevin},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={3408--3417},
+  year={2025}
+}
+
 @article{tang2025mobile,
   title={Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation},
   author={Tang, Fenghe and Nian, Bingkun and Ding, Jianrui and Ma, Wenxin and Quan, Quan and Dong, Chengqi and Yang, Jie and Liu, Wei and Zhou, S Kevin},
