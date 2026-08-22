@@ -43,7 +43,7 @@
 </div>
 <br>
 
-  [![project](https://img.shields.io/badge/ACM-MM-2025-white)](https://dl.acm.org/doi/pdf/10.1145/3746027.3755076)   [![arXiv](https://img.shields.io/badge/arxiv-2508.01064-b31b1b)](https://arxiv.org/pdf/2508.01064.pdf)   [![github](https://img.shields.io/badge/github-MobileUViT-black)](https://github.com/FengheTan9/Mobile-U-ViT)    <a href="####License"><img alt="License: Apache2.0" src="https://img.shields.io/badge/LICENSE-Apache%202.0-blue.svg"/></a>
+  [![pub](https://img.shields.io/badge/ACM--MM-2025-white)](https://dl.acm.org/doi/pdf/10.1145/3746027.3755076)   [![arXiv](https://img.shields.io/badge/arxiv-2508.01064-b31b1b)](https://arxiv.org/pdf/2508.01064.pdf)   [![github](https://img.shields.io/badge/github-MobileUViT-black)](https://github.com/FengheTan9/Mobile-U-ViT)    <a href="####License"><img alt="License: Apache2.0" src="https://img.shields.io/badge/LICENSE-Apache%202.0-blue.svg"/></a>
 
 
 
