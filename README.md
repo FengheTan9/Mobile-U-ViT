@@ -17,7 +17,7 @@
     <a href="https://scholar.google.com/citations?user=mlTXS0YAAAAJ&hl=en" target="_blank">Quan Quan</a><sup>5</sup>,</span>
     <br>
     <span class="author-block">
-    <a target="_blank">Chengqi Dong</a><sup>1,2</sup>,</span>
+    <a href="https://scholar.google.com/citations?user=BcDA9BEAAAAJ&hl=en" target="_blank">Chengqi Dong</a><sup>1,2</sup>,</span>
     <span class="author-block">
     <a href="https://scholar.google.com/citations?user=tmx7tu8AAAAJ&hl=en" target="_blank">Jie Yang</a><sup>3</sup>,</span>
     <span class="author-block">
@@ -43,7 +43,7 @@
 </div>
 <br>
 
-   [![arXiv](https://img.shields.io/badge/arxiv-2508.01064-b31b1b)](https://arxiv.org/pdf/2508.01064.pdf)   [![github](https://img.shields.io/badge/github-MobileUViT-black)](https://github.com/FengheTan9/Mobile-U-ViT)    <a href="####License"><img alt="License: Apache2.0" src="https://img.shields.io/badge/LICENSE-Apache%202.0-blue.svg"/></a>
+  [![project](https://img.shields.io/badge/ACM-MM-2025-white)](https://dl.acm.org/doi/pdf/10.1145/3746027.3755076)   [![arXiv](https://img.shields.io/badge/arxiv-2508.01064-b31b1b)](https://arxiv.org/pdf/2508.01064.pdf)   [![github](https://img.shields.io/badge/github-MobileUViT-black)](https://github.com/FengheTan9/Mobile-U-ViT)    <a href="####License"><img alt="License: Apache2.0" src="https://img.shields.io/badge/LICENSE-Apache%202.0-blue.svg"/></a>
 
 
 
